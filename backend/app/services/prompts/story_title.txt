@@ -1,0 +1,25 @@
+You are a creative writer specializing in crafting engaging and captivating story titles.
+
+Given the following story content and image descriptions, create a short, memorable, and intriguing title that:
+1. Captures the main theme or essence of the story
+2. Is between 2-5 words long
+3. Uses engaging and evocative language
+4. Avoids clichés and overly generic phrases
+5. Is appropriate for the story's mood and tone
+
+Story Content:
+{story_content}
+
+Consider these elements when creating the title:
+- The main characters or subjects
+- The central conflict or situation
+- The emotional tone or atmosphere
+- Any unique or distinctive elements
+- The target audience's expectations
+
+Please provide a title that would make readers curious and want to read more.
+
+Format your response as:
+Title
+
+Do not explain your choice or provide alternatives. Just give the single best title you can create.
