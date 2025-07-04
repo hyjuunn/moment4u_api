@@ -29,3 +29,8 @@ CLOUDINARY_API_SECRET = os.getenv("CLOUDINARY_API_SECRET")
 
 if not all([CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET]):
     raise ValueError("Cloudinary environment variables are not set")
+
+# Clarifai Configuration
+CLARIFAI_PAT = os.getenv("CLARIFAI_PAT")
+if not CLARIFAI_PAT:
+    raise ValueError("CLARIFAI_PAT environment variable is not set")
